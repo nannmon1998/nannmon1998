@@ -17,12 +17,12 @@
 
 <br>
 
-![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nannmon1998&theme=chartreuse_dark)
+![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nannmon1998&theme=aura)
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nannmon1998&theme=chartreuse_dark)&nbsp;&nbsp;
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nannmon1998&theme=aura)&nbsp;&nbsp;
 &nbsp;
-![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nannmon1998&theme=chartreuse_dark&utcOffset=8)
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nannmon1998&theme=aura&utcOffset=8)
 
-![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nannmon1998&theme=chartreuse_dark)&nbsp;&nbsp;
+![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nannmon1998&theme=aura)&nbsp;&nbsp;
 &nbsp;
-![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nannmon1998&theme=chartreuse_dark)
+![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nannmon1998&theme=aura)
