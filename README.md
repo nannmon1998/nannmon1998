@@ -1,16 +1,31 @@
-## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=light)](https://www.linkedin.com/in//) &nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/nannmon1998?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/nannmon1998) &nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/nannmon1998?logo=github&style=for-the-badge&color=7fff00)](https://github.com/nannmon1998) &nbsp;<br>
 
-<!--
-**nannmon1998/nannmon1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=nannmon1998&color=7fff00)
 
-Here are some ideas to get you started:
+# 🖐🏽 &nbsp;<b>Hi There! I'm Nann Mon</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>I'm <b style="color: #7fff00">a passionate Software Developer proficient in crafting full-fledged cross-platform software with over 4+ years of coding experience</b>.</h3> 
+<ul>
+<li> <b style="font-size: 28px">🔭</b>  I'm currently <b style="font-size: 18px;color: #7fff00;">contributing open source projects using Flutter.</b></li>
+<li> <b style="font-size: 28px">🕸</b>  Fairly obsessed with Web technologies ( <a href="https://witaward.com/result/2020">National Web Design Award Winner</a> ).</li> 
+
+<li> <b style="font-size: 28px">📮</b>  I often work on <b style="text-decoration: underline;color: #7fff00">freelance projects</b>. Contact me via <a href="mailto: nannmon199811@gmail.com">nannmon199811@gmail.com</a> .</li>
+
+&nbsp;
+
+## 📃 &nbsp;My Showcase Projects
+
+
+<br>
+
+![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nannmon1998&theme=chartreuse_dark)
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nannmon1998&theme=chartreuse_dark)&nbsp;&nbsp;
+&nbsp;
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nannmon1998&theme=chartreuse_dark&utcOffset=8)
+
+![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nannmon1998&theme=chartreuse_dark)&nbsp;&nbsp;
+&nbsp;
+![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nannmon1998&theme=chartreuse_dark)
